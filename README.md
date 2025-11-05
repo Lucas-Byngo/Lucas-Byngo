@@ -12,7 +12,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4d770b6b-d414-4899-9f09-430f6c12009c" />
+  <img align="center" alt="PHP" height="30" width="40" src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f9104f86-5bc8-4f2a-81b0-6bea1d879cf4"/>">
 ">
 </div>
  
