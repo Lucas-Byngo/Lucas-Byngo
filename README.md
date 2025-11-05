@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil do Lucas-Byngo 😁
+## Bem-vindo(a) ao perfil do Byngola 👨‍💻<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/accf9132-ac1e-4828-8c23-29fb0100c0bb" />
+
 
  <div>
    <a href="https://github.com/Lucas-Byngo
